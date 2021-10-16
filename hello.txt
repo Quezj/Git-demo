@@ -7,3 +7,4 @@ hello Git!
 hello Git!
 master file
 hot-fix file
+在github上面修改
