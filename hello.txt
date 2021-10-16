@@ -6,3 +6,4 @@ hello Git!
 hello Git!
 hello Git!
 master file
+hot-fix file
